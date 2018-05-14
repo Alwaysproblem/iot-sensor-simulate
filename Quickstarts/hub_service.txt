@@ -1,0 +1,3 @@
+CS
+========================================================================================================================================
+HostName=sensor-simulator.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=QOvZkksUYbHHBrqIf6qb2X0n6ow8DdhF7yMdC8+WnVQ=
